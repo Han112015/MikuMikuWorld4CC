@@ -11,8 +11,8 @@ open_recent,Mở tệp gần đây
 clear,Xóa
 save,Lưu
 save_as,Lưu như
-export_sus,Xuất SUS
-export_usc,Xuất USC
+export_sus,Xuất file SUS
+export_usc,Xuất file USC
 exit,Thoát
 edit,Sửa
 undo,Hoàn tác
@@ -23,15 +23,15 @@ settings,Cài đặt
 window,Cửa sổ
 vsync,VSync
 show_fps,Hiện FPS
-debug,Debug
+debug,Sửa lỗi
 create_auto_save,Tạo tự động sao lưu
 help,Trợ giúp
-about,About
+about,Về MMW4CC
 
 # dialogs
-file_not_found,File không được tìm thấy
-file_not_found_msg1,File
-file_not_found_msg2,không được tìm thấy
+file_not_found,Khồn tìm thấy file
+file_not_found_msg1,Không tìm thấy
+file_not_found_msg2, file
 remove_recent_file_not_found,Bạn có muốn xóa khỏi danh sách file gần đây không?
 yes,Có
 no,Không
@@ -39,7 +39,7 @@ unsaved_changes,Thay đổi chưa được lưu
 ask_save,Bạn có muốn thay đổi gần đây không?
 warn_unsaved,Bất kì thay đổi chưa lưu sẽ bị mất.
 save_changes,Lưu thay đổi
-discard_changes,Hủy bỏ thay đổi
+discard_changes,Không lưu thay đổi
 update_available,Phiên bản mới đang có sẵn!
 update_available_description,%s đang có sẵn. Bạn có muốn mở ở trình duyệt không?
 score_file,Score file
@@ -48,7 +48,7 @@ error_load_score_file,Một lỗi đã xuất hiện khi đang đọc score file
 error_load_music_file,Không thể mở file nhạc
 cancel,Hủy
 general,Chung
-key_config,Key Config
+key_config,Chìa khóa Config
 language,Ngôn ngữ
 auto,Tự động
 auto_save,Tự động lưu
